@@ -12,4 +12,5 @@ Les dejo una fotito mia para que me tengan de vista
 ![Deberia de ir mi carita aca](yo.jpg)
 
 Les dejo una fotito de *Grogu* porque pinto (si soy fanatico de Star Wars, tengo un tatuaje de las facciones del universo del mismo)
-![Otra fotito porque si](19AD3E7D-85C3-403F-BA7E-242273CA912D.png)
+
+![Otra fotito porque si](19AD3E7D-85C3-403F-BA7E-242273CA912D.jpeg)
